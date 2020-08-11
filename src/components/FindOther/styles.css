@@ -1,0 +1,7 @@
+  .findother{  
+    width: 50%;
+    height: 50px;
+    color: var(--light);
+    background-color:var(--color-medium);
+    margin:-2px;
+  }

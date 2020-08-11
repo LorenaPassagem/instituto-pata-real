@@ -1,0 +1,11 @@
+:root {
+    --spacing-radius-small: 10%;
+    --spacing-radius-medium: 30%;
+    --spacing-radius-big: 60%;
+
+    --sizing-small:10%;
+    --sizing-medium: 30%;
+    --sizing-big: 60%;
+
+    --font-size-big: 30px; 
+}

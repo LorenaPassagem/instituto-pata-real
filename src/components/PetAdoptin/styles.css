@@ -1,0 +1,6 @@
+.petadoption {
+    color:var(--color-dark);
+    font-weight:bold;
+    font-size: var(--font-size-big);
+    text-align: center;
+}

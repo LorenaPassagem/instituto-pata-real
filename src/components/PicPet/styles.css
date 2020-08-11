@@ -1,0 +1,18 @@
+.picpet{
+    border-radius: var(--spacing-radius-big);
+    border: 2px solid var(--color-light); 
+    padding: 5px;
+    margin: 5px;
+}
+ 
+ @media screen and (max-width:604px){
+    .picpet{
+        width: var(--sizing-big);
+    }
+ }
+ 
+ @media screen and (max-width:393px){
+    .picpet{
+        width: var(--sizing-small);
+     }
+ }

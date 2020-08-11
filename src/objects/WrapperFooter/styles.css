@@ -1,0 +1,14 @@
+.footer > .institucional {
+    display: block;
+    text-decoration: none;
+    color: var(--color-light);
+    padding:2px;
+    margin: 5px;
+}
+
+.footer > .logo{
+    float: right;
+    margin-top:0;
+    cursor: pointer;
+
+}

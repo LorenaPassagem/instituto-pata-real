@@ -1,0 +1,32 @@
+.wrapperpet {
+    display: inline-block;
+    width: 90vw;
+    height: 100vw;  
+}
+
+.wrapperpet::after {
+    content:'';
+    display: inline-block;
+    width: 100%;
+    height: 2px;
+    background-color: var(--color-medium);
+    margin: 5%;
+}
+
+.wrapperpet > .petadoption{
+    margin-top:20px;
+    margin-bottom: 10px; 
+}
+
+.wrapperpet > .wall {
+    display: flex;
+    justify-content: space-between;
+    padding: 4px
+}
+
+.wrapperpet > .description {
+  display: flex;
+  justify-content: space-between; 
+  padding-left: 2%
+}
+

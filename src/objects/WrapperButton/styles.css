@@ -1,0 +1,22 @@
+.wrapperbutton {
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+   margin-right: -4px;
+   margin-left: -4px; 
+   margin-top: 4px;
+}
+
+.wrapperbutton > .findpet {
+    margin-right: 10px;
+}
+
+.wrapperbutton > .findother {
+    width: 100%;
+}
+/** more @media wrong   **/
+@media (min-width: 1000px){
+    .wrapperbutton > .findother {
+        width: 50%;
+    }
+}
