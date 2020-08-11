@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/instituto-pata-real/static/css/main.deda295a.chunk.css",
+    "main.js": "/instituto-pata-real/static/js/main.02033d73.chunk.js",
+    "main.js.map": "/instituto-pata-real/static/js/main.02033d73.chunk.js.map",
+    "runtime-main.js": "/instituto-pata-real/static/js/runtime-main.22b7dfac.js",
+    "runtime-main.js.map": "/instituto-pata-real/static/js/runtime-main.22b7dfac.js.map",
+    "static/js/2.ce1cd3ad.chunk.js": "/instituto-pata-real/static/js/2.ce1cd3ad.chunk.js",
+    "static/js/2.ce1cd3ad.chunk.js.map": "/instituto-pata-real/static/js/2.ce1cd3ad.chunk.js.map",
+    "index.html": "/instituto-pata-real/index.html",
+    "precache-manifest.c5617c22a61dd8011e41bce0d2cc7ec1.js": "/instituto-pata-real/precache-manifest.c5617c22a61dd8011e41bce0d2cc7ec1.js",
+    "service-worker.js": "/instituto-pata-real/service-worker.js",
+    "static/css/main.deda295a.chunk.css.map": "/instituto-pata-real/static/css/main.deda295a.chunk.css.map",
+    "static/media/banner-cachorro.png": "/instituto-pata-real/static/media/banner-cachorro.8ed5ffc4.png",
+    "static/media/filhote.png": "/instituto-pata-real/static/media/filhote.eb7e4497.png",
+    "static/media/gatinho.png": "/instituto-pata-real/static/media/gatinho.2039b75d.png"
+  }
+}
